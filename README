@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3353
+
+if you wanted exceptions/errors to stand out as red words, date to be in a different color so that it may be ignored ... here is the script that will do that for you.
